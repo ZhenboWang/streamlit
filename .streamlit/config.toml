@@ -1,0 +1,7 @@
+# streamlit
+[server]
+maxUploadSize = 2000
+port = 8501
+
+[global]
+developmentMode = false
